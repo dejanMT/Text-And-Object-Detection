@@ -3,7 +3,7 @@ This project was made with Python, this application allows the user to adjust th
 
 ![image](https://user-images.githubusercontent.com/64418367/173660690-d195e433-366b-4ef5-8383-165e5fa8c05a.png)
 
-<h2>How To Use<h2> 
+<h2>How To Use</h2> 
 <p>When the project is executed the user will be represented with the following screen, where the user will be able to adjust the blurriness level of the image.</p>
   
 ![image](https://user-images.githubusercontent.com/64418367/173662340-28549e08-c77f-42a9-b39c-202e22e45ccf.png)
